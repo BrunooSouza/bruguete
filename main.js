@@ -4,4 +4,6 @@ const doguete = 'o cara';
 const merge = 'merge'
 // alteração na nova branch
 
+// asdasdasd
+
 // outra auteração
